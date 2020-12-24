@@ -21,7 +21,7 @@ python christmas-tree.py
 
 The Christmas tree will be shown with the colors of the stars changing every second:
 
-![This is a alt text.](/screenshots/01.png "This is a sample image.")
+![This is a alt text.](/screenshots/01.gif "This is a sample image.")
 
 to stop the execution of the script you must press the keys **Ctrl+C**
 
